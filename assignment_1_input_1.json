@@ -15,7 +15,7 @@
         {
             "text":"And your gender?",
             "options":[
-                "Male",
+                "male",
                 "female"
             ],
             "var":"gender"
